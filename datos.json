@@ -1,0 +1,262 @@
+[
+  {
+    "id": "ac",
+    "title": "Egipto Antiguo",
+    "description": "Los antiguos egipcios realizaron observaciones astronómicas y médicas para mejorar su calidad de vida.",
+    "date": "2400 a.C",
+    "modalContent": "El Egipto Antiguo, una civilización fascinante que se desarrolló a lo largo del río Nilo, destacó en diversos campos científicos. Los egipcios antiguos fueron pioneros en la observación astronómica, utilizando sus conocimientos para desarrollar calendarios precisos que guiaban tanto sus actividades diarias como ceremoniales. Además, en el ámbito médico, realizaron observaciones detalladas que contribuyeron a mejorar la calidad de vida de su sociedad. Exploraron hierbas medicinales y técnicas quirúrgicas rudimentarias, sentando las bases para futuros avances en medicina.",
+    "imageUrl": "img/1.jpg"
+
+  },
+  {
+    "id": "ac",
+    "title": "Hipótesis atribuida a Tales de Mileto",
+    "description": "La hipótesis se le atribuye a Tales de Mileto durante el siglo VI a.c. En un contexto científico la hipótesis se le atribuye a Robert Boyle en el siglo XVII (1661).",
+    "date": "VI a.C",
+    "modalContent": "La hipótesis atribuida a Tales de Mileto es un hito importante en la historia del pensamiento científico. Durante el siglo VI a.C, Tales de Mileto, considerado uno de los Siete Sabios de Grecia, propuso la idea de que el agua era el principio fundamental de todas las cosas. Esta concepción marcó el inicio de un enfoque más sistemático y racional para comprender el mundo que nos rodea. Siglos después, en el siglo XVII, Robert Boyle formalizaría el concepto de hipótesis en un contexto científico más estructurado, allanando el camino para el método científico moderno.",
+    "imageUrl": "img/2.jpg"  
+  },
+  {
+    "id": "ac",
+    "title": "Platón define la ciencia en la antigua Grecia",
+    "description": "Platón en la antigua Grecia se encargó de definir la ciencia como algo que podemos aprender dándole la calidad de habilidad Manual.",
+    "date": "V a.C",
+    "modalContent": "En la antigua Grecia, Platón, uno de los filósofos más influyentes de todos los tiempos, desempeñó un papel crucial al definir la ciencia como una habilidad que se puede aprender y perfeccionar. Para Platón, la búsqueda del conocimiento y la comprensión del mundo implicaba la aplicación de la razón y la lógica. Su influyente obra 'La República' explora temas filosóficos y políticos, sentando las bases para el pensamiento científico en la Grecia antigua.",
+    "imageUrl": "img/3.jpg"
+  },
+  {
+    "id": "ac",
+    "title": " Alhazen aporta el método científico con la experimentación repetida.",
+    "description": "Aporto el método científico la experimentación repetida para la observación de los resultados. Ha sido señalado como el padre del método científico moderno.",
+    "date": "Siglo V – X a.C. (1010-1021)",
+    "modalContent": "Alhazen, también conocido como Ibn al-Haytham, fue un científico polímata que vivió en la época dorada de la civilización islámica. Su contribución más destacada fue en el desarrollo del método científico. Alhazen abogó por la experimentación repetida y la observación rigurosa de los resultados como medio para comprender los fenómenos naturales. Este enfoque experimental y sistemático le ha valido el reconocimiento como el padre del método científico moderno, influyendo en científicos posteriores durante la Edad Media y el Renacimiento.",
+    "imageUrl": "img/4.jpg"
+  },
+  {
+    "id": "ac",
+    "title": "Comienzo de la aplicación de la lógica y el razonamiento",
+    "description": "Aristóteles comienza a aplicar la lógica y el razonamiento a la observación sistemática.",
+    "date": "400 a.C",
+    "modalContent": "En el año 400 a.C., Aristóteles, discípulo de Platón, inició una era de aplicación sistemática de la lógica y el razonamiento a la observación científica. Sus contribuciones fueron fundamentales para establecer las bases del método científico. Aristóteles creía en la importancia de la observación meticulosa y la recopilación de datos empíricos como medio para entender el mundo natural. Sus obras, como 'Física' y 'Metafísica', siguen siendo fundamentales en la filosofía y la ciencia antigua.",
+    "imageUrl": "img/5.jpeg"
+  },
+  {
+    "id": "ac",
+    "title": "Aristóteles establece los principios básicos de la investigación científica.",
+    "description": "Aristóteles establece los principios básicos de la investigación científica, sentando las bases para el desarrollo del conocimiento científico.",
+    "date": "384 a.C.  ",
+    "modalContent": "El legado de Aristóteles en la historia de la ciencia es monumental. En el año 384 a.C., Aristóteles sentó los principios básicos de la investigación científica al abogar por un enfoque sistemático y lógico para comprender el mundo que nos rodea. Sus contribuciones abarcan diversos campos, desde la biología hasta la ética. Aristóteles influyó en generaciones de pensadores y sentó las bases para el método científico posterior.",
+    "imageUrl": "img/6.jpg"
+  },
+  {
+    "id": "ac",
+    "title": "Creación de las obras del Organon con el pensamiento sistemático de las leyes del pensamiento.",
+    "description": "Se estima que es el periodo en el que fueron creados las obras del Organon que contienen el primer pensamiento sistemático de las leyes de pensamiento en relación con la adquisición de conocimiento.",
+    "date": "384 a.C. – 332 a.C.",
+    "modalContent": "El periodo comprendido entre el 384 a.C. y el 332 a.C. marca la creación de las obras del Organon, un conjunto de escritos de Aristóteles que abordaban el pensamiento sistemático y las leyes del pensamiento en relación con la adquisición de conocimiento. Estas obras, que incluyen 'Analíticos Posteriores' y 'Topica', representan un hito en la formalización del pensamiento lógico y han dejado una huella duradera en la filosofía y la ciencia.",
+    "imageUrl": "img/7.png"
+  },
+  {
+    "id": "ac",
+    "title": "Aristóteles distingue dos formas de saber",
+    "description": "Aristóteles distingue dos formas de saber: la lógica y la metafísica. Teoría del conocimiento por experiencia (Siglo IV a.C.)",
+    "date": "384 – 322 a.C. ",
+    "modalContent": "En el periodo entre el 384 a.C. y el 322 a.C., Aristóteles realizó contribuciones fundamentales a la teoría del conocimiento. Distinguía dos formas de saber: la lógica, que implicaba el razonamiento y la inferencia, y la metafísica, que exploraba más allá de lo físico y material. Su énfasis en la teoría del conocimiento por experiencia influyó en las futuras corrientes filosóficas y científicas, marcando una etapa crucial en la evolución del pensamiento humano.",
+    "imageUrl": "img/8.jpg"
+  },
+  {
+    "id": "ac",
+    "title": "Aristóteles desarrolla la lógica deductiva, base de la investigación científica.",
+    "description": "Aristóteles desarrolla la lógica deductiva, sentando las bases para la investigación científica al establecer un método de razonamiento riguroso.",
+    "date": "300 a.C. ",
+    "modalContent": "En el año 300 a.C., Aristóteles llevó a cabo un desarrollo significativo al formular la lógica deductiva, que se convirtió en la base fundamental de la investigación científica. Este enfoque de razonamiento riguroso estableció un método lógico para la deducción de conclusiones a partir de premisas. La lógica deductiva de Aristóteles ha perdurado a lo largo de los siglos, influyendo en la forma en que los científicos abordan la investigación y el razonamiento.",
+    "imageUrl": "img/9.webp"
+  },
+  {
+    "id": "dc",
+    "title": "Edad Media. ",
+    "description": "Durante la Edad Media, los científicos empezaron a utilizar la observación y la experimentación para hacer descubrimientos en la medicina y en la química. ",
+    "date": "Siglo V – siglo XV. ",
+    "modalContent": "La Edad Media, que abarca desde el siglo V hasta el siglo XV, fue un período de transformación en la historia científica. A pesar de la percepción común de una época oscura, los científicos medievales comenzaron a emplear la observación y la experimentación para realizar descubrimientos significativos en campos como la medicina y la química. Este cambio en enfoque sienta las bases para el surgimiento de la ciencia moderna en el Renacimiento.",
+    "imageUrl": "img/10.jpg"
+  },
+  {
+    "id": "dc",
+    "title": "Avicena desarrolla el método científico de la observación, experimentación y la hipótesis.",
+    "description": "Avicena contribuye al desarrollo del método científico al enfatizar la importancia de la observación, la experimentación y la formulación de hipótesis.",
+    "date": "1025",
+    "modalContent": "En el año 1025, Avicena, también conocido como Ibn Sina, hizo contribuciones notables al desarrollo del método científico. Abogó por la importancia de la observación detallada, la experimentación sistemática y la formulación de hipótesis como elementos cruciales en la búsqueda del conocimiento científico. Su enfoque riguroso influyó en la metodología científica durante la Edad Media y más allá.",
+    "imageUrl": "img/11.jpg"
+  },
+  {
+    "id": "dc",
+    "title": "Inicio de la Revolución científica.",
+    "description": "Se denomina revolución científica a un movimiento intelectual surgido en Europa entre los siglos XVI y XVII que tenía como finalidad restaurar a la sociedad bajo principios científicos.",
+    "date": "1473 – 1543",
+    "modalContent": "El periodo entre 1473 y 1543 marca el inicio de la Revolución Científica, un movimiento intelectual que transformó la forma en que la sociedad europea comprendía el mundo. Durante este tiempo, se buscó restaurar la sociedad bajo principios científicos y abandonar concepciones tradicionales. Figuras como Copérnico, Kepler y Galileo Galilei desafiaron las ideas establecidas, fomentando el método científico y promoviendo una nueva era de descubrimientos.",
+    "imageUrl": "img/12.jpg"
+  },
+  {
+    "id": "dc",
+    "title": "Galileo Galilei utiliza experimentos como instrumento de investigación. ",
+    "description": "Considerado el padre del método científico, uso los experimentos como instrumento de investigación y matematizó la ciencia. ",
+    "date": "Siglo XV – XVIII.",
+    "modalContent": "Galileo Galilei, un gigante de la Revolución Científica, destacó por su enfoque revolucionario hacia la investigación. Considerado el padre del método científico, Galileo utilizó experimentos sistemáticos como instrumento clave para investigar fenómenos naturales. Además, matematizó la ciencia al expresar leyes físicas en términos matemáticos, un enfoque que sentó las bases para la física moderna. Su valentía al desafiar las concepciones establecidas lo convierte en una figura icónica de la ciencia.",
+    "imageUrl": "img/13.jpg"
+  },
+  {
+    "id": "dc",
+    "title": "René Descartes propone el razonamiento deductivo.",
+    "description": "Propuso que el razonamiento deductivo era la única forma de aprender.",
+    "date": "Siglo XVI",
+    "modalContent": "Galileo Galilei, un gigante de la Revolución Científica, destacó por su enfoque revolucionario hacia la investigación. Considerado el padre del método científico, Galileo utilizó experimentos sistemáticos como instrumento clave para investigar fenómenos naturales. Además, matematizó la ciencia al expresar leyes físicas en términos matemáticos, un enfoque que sentó las bases para la física moderna. Su valentía al desafiar las concepciones establecidas lo convierte en una figura icónica de la ciencia.",
+    "imageUrl": "img/14.jpg"
+  },
+  {
+    "id": "dc",
+    "title": " Francis Bacon define el método científico.",
+    "description": "Francis Bacon define el método científico, proponiendo un enfoque sistemático que incluye observación, hipótesis, experimentación y evaluación.",
+    "date": "1561 – 1626 ",
+    "modalContent": "En el periodo entre 1561 y 1626, Sir Francis Bacon desempeñó un papel crucial al definir el método científico. Propuso un enfoque sistemático que incluía observación cuidadosa, formulación de hipótesis, experimentación controlada y evaluación objetiva. Su obra 'Novum Organum' abogaba por una metodología científica rigurosa y sentó las bases para el desarrollo de la ciencia experimental moderna.",
+    "imageUrl": "img/15.webp"
+
+  },
+  {
+    "id": "dc",
+    "title": "Fundación de la Real y Pontificia Universidad de México.",
+    "description": "La Universidad de México fue fundada en 1571 por el rey Felipe II de España, y se convirtió en el centro de investigación científica más importante del país.",
+    "date": "1571. ",
+    "modalContent": "En 1571, se fundó la Real y Pontificia Universidad de México por decreto del rey Felipe II de España. Esta institución se convirtió en el epicentro de la investigación científica en el país, desempeñando un papel crucial en el desarrollo de la educación superior y la promoción de la investigación en diversas disciplinas científicas.",
+    "imageUrl": "img/16.jpeg"
+  },
+  {
+    "id": "dc",
+    "title": "René Descartes propone el método cartesiano y la duda metódica",
+    "description": "Una de las primeras obras de filosofía moderna, defiende el nuevo espíritu científico. Actitud de investigación libre. Método Cartesiano y la duda metódica (Siglo XVII). ",
+    "date": "1596 – 1650 ",
+    "modalContent": "En el siglo XVII, René Descartes dejó una marca indeleble en la filosofía y la ciencia con la propuesta del método cartesiano y la duda metódica. En su obra 'Meditaciones Metafísicas', Descartes abogó por un nuevo espíritu científico, promoviendo la actitud de investigación libre y cuestionando las creencias establecidas. Introdujo la duda metódica como herramienta para alcanzar conocimientos fundamentales y sentó las bases para la filosofía moderna.",
+    "imageUrl": "img/17.webp"
+  },
+  {
+    "id": "dc",
+    "title": "Francis Bacon publica Novum Organum",
+    "description": "Propone el método inductivo para la investigación científica. Propone un método científico sistemático que incluye la observación, la hipótesis, la experimentación y la evaluación.",
+    "date": "1620. ",
+    "modalContent": "En 1620, Francis Bacon publicó 'Novum Organum', una obra seminal que propuso el método inductivo para la investigación científica. Bacon abogó por un método sistemático que involucraba la observación cuidadosa de la naturaleza, la formulación de hipótesis, la realización de experimentos y la evaluación objetiva de los resultados. Esta obra marcó un hito en el desarrollo del método científico y su influencia perdura hasta la actualidad.",
+    "imageUrl": "img/18.jpg"
+  },
+  {
+    "id": "dc",
+    "title": "John Locke desarrolla la teoría del empirismo.",
+    "description": "John Locke desarrolla la teoría del empirismo, destacando la importancia de la experiencia en la adquisición del conocimiento.",
+    "date": "1632 – 1704",
+    "modalContent": "En el periodo entre 1632 y 1704, John Locke, filósofo inglés, hizo contribuciones significativas al desarrollo de la teoría del empirismo. Locke argumentaba que la mente humana es una 'tabula rasa', una pizarra en blanco, y que el conocimiento se adquiere a través de la experiencia sensorial y la observación. Su enfoque influyó en la epistemología y la teoría del conocimiento, contribuyendo al pensamiento científico y filosófico de la época.",
+    "imageUrl": "img/19.jpg"
+  },
+  {
+    "id": "dc",
+    "title": "Immanuel Kant desarrolla la teoría del conocimiento y la razón pura.",
+    "description": "Immanuel Kant desarrolla la teoría del conocimiento y la razón pura, influyendo en la filosofía y la epistemología.",
+    "date": "1724 – 1804:",
+    "modalContent": "Entre los años 1724 y 1804, Immanuel Kant, filósofo alemán, dejó una huella indeleble en la filosofía y la epistemología con su desarrollo de la teoría del conocimiento y la razón pura. En su obra 'Crítica de la razón pura', Kant exploró las estructuras fundamentales de la mente humana y cómo influyen en la percepción y comprensión del mundo. Sus ideas tuvieron un impacto duradero en la filosofía y la forma en que se aborda el conocimiento.",
+    "imageUrl": "img/20.png"
+  },
+  {
+    "id": "dc",
+    "title": "La Independencia de México impacta en la investigación científica.",
+    "description": "La Independencia de México en 1821 tiene un impacto significativo en la investigación científica del país, marcando un nuevo contexto histórico.",
+    "date": "1821",
+    "modalContent": "La Independencia de México en 1821 marcó un hito en la historia del país y tuvo un impacto significativo en la investigación científica. Tras la independencia, se llevaron a cabo transformaciones en el ámbito educativo, promoviendo la ciencia y la investigación. Este periodo posindependencia sentó las bases para el desarrollo de instituciones científicas y el fomento de la investigación en México.",
+    "imageUrl": "img/21.jpg"
+  },
+  {
+    "id": "dc",
+    "title": "Gastón Bachelard destaca en el pensamiento científico.",
+    "description": "Gastón Bachelard destaca en el pensamiento científico, explorando la filosofía de la ciencia y la epistemología.",
+    "date": "1884 – 1962",
+    "modalContent": "Gastón Bachelard fue un destacado filósofo de la ciencia que influyó profundamente en la epistemología y el pensamiento científico del siglo XX. Su enfoque se centró en la exploración de la naturaleza y la estructura del conocimiento científico, destacando la importancia de superar obstáculos epistemológicos. A través de obras como 'La formación del espíritu científico', Bachelard contribuyó a la comprensión filosófica de la ciencia y su desarrollo.",
+    "imageUrl": "img/22.webp"
+  },
+  {
+    "id": "dc",
+    "title": "Surge el Círculo de Viena y el neopositivismo.",
+    "description": "Surge el Círculo de Viena y el neopositivismo, movimientos intelectuales que influyen en la filosofía de la ciencia.",
+    "date": "1920",
+    "modalContent": "El Círculo de Viena, un grupo de intelectuales y científicos del siglo XX, lideró el movimiento neopositivista, que buscaba aplicar métodos científicos y lógicos al estudio de la filosofía. Influenciados por la obra de Ludwig Wittgenstein y otros, los neopositivistas abogaron por la clarificación del lenguaje y la eliminación de proposiciones metafísicas. Este movimiento dejó una marca duradera en la filosofía de la ciencia y la epistemología.",
+    "imageUrl": "img/23.webp"
+  },
+  {
+    "id": "dc",
+    "title": "Thomas Kuhn desarrolla la teoría de los paradigmas científicos.",
+    "description": "Thomas Kuhn desarrolla la teoría de los paradigmas científicos, cambiando la perspectiva sobre la naturaleza de la ciencia y sus revoluciones.",
+    "date": "1922 – 1996",
+    "modalContent": "Thomas Kuhn, historiador y filósofo de la ciencia, revolucionó la comprensión del desarrollo científico con su teoría de los paradigmas. En 'La estructura de las revoluciones científicas', Kuhn argumentó que la ciencia no progresa de manera lineal, sino a través de cambios revolucionarios en los paradigmas científicos. Su trabajo influyó en la filosofía y la historia de la ciencia, generando debates sobre la naturaleza de la investigación científica.",
+    "imageUrl": "img/24.png"
+  },
+  {
+    "id": "dc",
+    "title": "Neyman y Pearson desarrollan la teoría de la prueba de hipótesis.",
+    "description": "Neyman y Pearson desarrollan la teoría de la prueba de hipótesis, contribuyendo al desarrollo de la estadística en la investigación científica.",
+    "date": "1935",
+    "modalContent": "Jerzy Neyman y Egon Pearson fueron estadísticos que desempeñaron un papel crucial en el desarrollo de la teoría de la prueba de hipótesis. Su enfoque estadístico riguroso proporcionó herramientas para la toma de decisiones en la investigación científica, estableciendo principios fundamentales para la inferencia estadística. La teoría de Neyman-Pearson ha sido fundamental en la estadística y la metodología de investigación.",
+    "imageUrl": "img/25.png"
+  },
+  {
+    "id": "dc",
+    "title": "Karl Popper propone el falsacionismo.",
+    "description": "Karl Popper propone el falsacionismo, planteando la importancia de la falsación en la validación de teorías científicas.",
+    "date": "1950",
+    "modalContent": "Karl Popper, filósofo de la ciencia, introdujo el falsacionismo como criterio de demarcación entre ciencia y no ciencia. Según Popper, una teoría científica debe ser falsable, es decir, debe plantear predicciones específicas que puedan ser refutadas por la evidencia empírica. Esta propuesta influyó en la metodología científica al destacar la importancia de la falsación como parte integral de la validación científica.",
+    "imageUrl": "img/26.png"
+  },
+  {
+    "id": "dc",
+    "title": "Auge de la investigación científica en México.",
+    "description": "En la década de 1960, se experimenta un auge en la investigación científica en México, marcando un periodo de crecimiento y desarrollo.",
+    "date": "1960",
+    "modalContent": "En la década de 1960, México experimentó un notable auge en la investigación científica. Este periodo se caracterizó por un crecimiento significativo en instituciones de investigación, inversiones en ciencia y tecnología, y un aumento en la producción científica. Este impulso contribuyó al desarrollo del panorama científico en México, consolidándolo como un actor importante en la investigación a nivel regional e internacional.",
+    "imageUrl": "img/27.webp"
+  },
+  {
+    "id": "dc",
+    "title": " Thomas Kuhn publica La estructura de las revoluciones científicas.",
+    "description": "Thomas Kuhn publica La estructura de las revoluciones científicas, introduciendo la noción de cambios paradigmáticos en la ciencia.",
+    "date": "1962",
+    "modalContent": "En 1962, Thomas Kuhn publicó 'La estructura de las revoluciones científicas', obra que introdujo la noción de cambios paradigmáticos en la ciencia. Kuhn argumentó que la evolución científica implica revoluciones que cambian la forma en que se percibe y practica la ciencia. Su influencia se extendió a diversas disciplinas y generó debates sobre la naturaleza y el progreso de la investigación científica.",
+    "imageUrl": "img/28.jpg"
+  },
+  {
+    "id": "dc",
+    "title": "Dr. Raúl Rojas Soriano publica la Guía para investigaciones sociales.",
+    "description": "En 1976, el Dr. Raúl Rojas Soriano publica la Guía para investigaciones sociales, ofreciendo orientación en el ámbito de la investigación social.",
+    "date": "1976",
+    "modalContent": "En 1976, el Dr. Raúl Rojas Soriano, destacado investigador social, publicó 'Guía para investigaciones sociales', una obra que proporciona orientación valiosa en el ámbito de la investigación social. Esta guía se convirtió en una referencia importante para estudiantes, académicos y profesionales dedicados a la investigación en ciencias sociales, ofreciendo metodologías y enfoques para abordar temas relevantes en la sociedad.",
+    "imageUrl": "img/29.jpg"
+  },
+  {
+    "id": "dc",
+    "title": "Metodología FODA se comienza a aplicar en EE. UU.",
+    "description": "En 1985, la Metodología FODA comienza a aplicarse en Estados Unidos, influyendo en la planificación estratégica.",
+    "date": "1985",
+    "modalContent": "En 1985, la Metodología FODA (Fortalezas, Oportunidades, Debilidades y Amenazas) comenzó a aplicarse en Estados Unidos, marcando una influencia significativa en la planificación estratégica de empresas e instituciones. Esta metodología proporciona un marco analítico para evaluar factores internos y externos que afectan una organización, contribuyendo a la toma de decisiones informada y al desarrollo de estrategias efectivas.",
+    "imageUrl": "img/30.png"
+  },
+  {
+    "id": "dc",
+    "title": " Interdisciplinariedad e integración del conocimiento.",
+    "description": "En 1996, se destaca la importancia de la interdisciplinariedad e integración del conocimiento en la investigación científica.",
+    "date": "1996",
+    "modalContent": "En 1996, se enfatizó la importancia de la interdisciplinariedad e integración del conocimiento en la investigación científica. Este enfoque reconoce que muchos problemas complejos requieren la colaboración de diversas disciplinas para su comprensión y solución. La interdisciplinariedad fomenta la sinergia entre áreas de estudio, abordando cuestiones científicas desde perspectivas múltiples y promoviendo avances significativos en la comprensión del mundo.",
+    "imageUrl": "img/31.webp"
+  },
+  {
+    "id": "dc",
+    "title": "Consolidación de la investigación científica en México.",
+    "description": "Hacia el año 2000, se observa una consolidación de la investigación científica en México, con un crecimiento y reconocimiento en diversas áreas.",
+    "date": "2000",
+    "modalContent": "Hacia el año 2000, México experimentó una consolidación notable en la investigación científica. Este periodo se caracterizó por un crecimiento continuo y un reconocimiento internacional en diversas áreas, desde ciencias naturales hasta humanidades. La inversión en infraestructuras científicas, programas académicos y colaboraciones internacionales contribuyó a posicionar a México como un actor relevante en la escena científica global.",
+    "imageUrl": "img/32.jpg"
+  }
+]
+
+  
