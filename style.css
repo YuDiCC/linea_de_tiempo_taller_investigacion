@@ -174,10 +174,13 @@ ul li a {
   text-align: center;
   position: relative;
   align-items: center;
+  font-size: 15px;
+  max-height: 500px;
+  overflow-y: scroll;
 }
 
 .modal-image {
-	max-width: 20%;
+	max-width: 250px;
 	height: auto;
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -438,14 +441,20 @@ footer {
 	}
 
 	.modal-content{
-		font-size: 10px;
+		font-size: 11px;
+		max-height: 400px;
+		overflow-y: scroll;
+	}
+
+	.modal-content h2{
+		font-size: 15px;
+		font-weight: bold;
 	}
 
 	.modal-image{
-		width: 100%;
-    	height: auto;
-		padding-bottom: 10px;
+		max-width: 200px;
 	}
+
 }
 
 @media only screen and (max-width: 550px) {
