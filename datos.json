@@ -171,11 +171,35 @@
   },
   {
     "id": "dc",
+    "title": "Marie Curie y su legado en la investigación científica",
+    "description": "Marie Curie, pionera en el campo de la radiactividad, dejó un legado duradero en la investigación científica. Sus contribuciones, especialmente en la radioquímica, siguen siendo fundamentales en la comprensión de fenómenos atómicos y en la aplicación de la radiación en medicina.",
+    "date": "1867 – 1934",
+    "modalContent": "Marie Curie, la primera mujer en ganar un Premio Nobel en dos campos diferentes (Física y Química), desempeñó un papel crucial en el desarrollo de la investigación científica. Sus estudios pioneros sobre la radiactividad y la radioquímica no solo contribuyeron al entendimiento de fenómenos atómicos, sino que también allanaron el camino para aplicaciones prácticas en medicina. Su legado sigue siendo una inspiración para científicos de todo el mundo.",
+    "imageUrl": "img/22.jpg"
+  },
+  {
+    "id": "dc",
     "title": "Gastón Bachelard destaca en el pensamiento científico.",
     "description": "Gastón Bachelard destaca en el pensamiento científico, explorando la filosofía de la ciencia y la epistemología.",
     "date": "1884 – 1962",
     "modalContent": "Gastón Bachelard fue un destacado filósofo de la ciencia que influyó profundamente en la epistemología y el pensamiento científico del siglo XX. Su enfoque se centró en la exploración de la naturaleza y la estructura del conocimiento científico, destacando la importancia de superar obstáculos epistemológicos. A través de obras como 'La formación del espíritu científico', Bachelard contribuyó a la comprensión filosófica de la ciencia y su desarrollo.",
-    "imageUrl": "img/22.webp"
+    "imageUrl": "img/23.webp"
+  },
+  {
+    "id": "dc",
+    "title": "Taller de Investigación Científica",
+    "description": "Los talleres de investigación científica, a partir del siglo XX, se convirtieron en espacios cruciales para el desarrollo de habilidades investigativas. Estos talleres proporcionan a estudiantes y profesionales la oportunidad de explorar temas de interés, aplicar metodologías científicas y contribuir al avance del conocimiento en diversas disciplinas.",
+    "date": "Siglo XX",
+    "modalContent": "El surgimiento de talleres de investigación científica en el siglo XX marcó un cambio significativo en la forma en que se aborda la investigación. Estos espacios fomentan la colaboración, el intercambio de ideas y el desarrollo de habilidades investigativas. Proporcionan a estudiantes y profesionales una plataforma para explorar temas de interés, aplicar metodologías científicas y contribuir al avance del conocimiento en diversas disciplinas.",
+    "imageUrl": "img/24.jpg"
+  },   
+  {
+    "id": "dc",
+    "title": "Avances en Biotecnología",
+    "description": "La década de 1990 fue testigo de avances significativos en biotecnología, incluido el desarrollo de la técnica de reacción en cadena de la polimerasa (PCR) y la clonación de la oveja Dolly en 1996.",
+    "date": "1990s",
+    "modalContent": "La década de 1990 fue testigo de avances significativos en biotecnología. La técnica de reacción en cadena de la polimerasa (PCR) revolucionó la amplificación de ADN, facilitando investigaciones genéticas. En 1996, se logró un hito con la clonación de la oveja Dolly, el primer mamífero clonado a partir de una célula adulta. Estos avances sentaron las bases para futuras investigaciones y aplicaciones en biomedicina y agricultura.",
+    "imageUrl": "img/25.jpg"
   },
   {
     "id": "dc",
@@ -183,7 +207,7 @@
     "description": "Surge el Círculo de Viena y el neopositivismo, movimientos intelectuales que influyen en la filosofía de la ciencia.",
     "date": "1920",
     "modalContent": "El Círculo de Viena, un grupo de intelectuales y científicos del siglo XX, lideró el movimiento neopositivista, que buscaba aplicar métodos científicos y lógicos al estudio de la filosofía. Influenciados por la obra de Ludwig Wittgenstein y otros, los neopositivistas abogaron por la clarificación del lenguaje y la eliminación de proposiciones metafísicas. Este movimiento dejó una marca duradera en la filosofía de la ciencia y la epistemología.",
-    "imageUrl": "img/23.webp"
+    "imageUrl": "img/26.webp"
   },
   {
     "id": "dc",
@@ -191,7 +215,7 @@
     "description": "Thomas Kuhn desarrolla la teoría de los paradigmas científicos, cambiando la perspectiva sobre la naturaleza de la ciencia y sus revoluciones.",
     "date": "1922 – 1996",
     "modalContent": "Thomas Kuhn, historiador y filósofo de la ciencia, revolucionó la comprensión del desarrollo científico con su teoría de los paradigmas. En 'La estructura de las revoluciones científicas', Kuhn argumentó que la ciencia no progresa de manera lineal, sino a través de cambios revolucionarios en los paradigmas científicos. Su trabajo influyó en la filosofía y la historia de la ciencia, generando debates sobre la naturaleza de la investigación científica.",
-    "imageUrl": "img/24.png"
+    "imageUrl": "img/27.png"
   },
   {
     "id": "dc",
@@ -199,7 +223,7 @@
     "description": "Neyman y Pearson desarrollan la teoría de la prueba de hipótesis, contribuyendo al desarrollo de la estadística en la investigación científica.",
     "date": "1935",
     "modalContent": "Jerzy Neyman y Egon Pearson fueron estadísticos que desempeñaron un papel crucial en el desarrollo de la teoría de la prueba de hipótesis. Su enfoque estadístico riguroso proporcionó herramientas para la toma de decisiones en la investigación científica, estableciendo principios fundamentales para la inferencia estadística. La teoría de Neyman-Pearson ha sido fundamental en la estadística y la metodología de investigación.",
-    "imageUrl": "img/25.png"
+    "imageUrl": "img/28.png"
   },
   {
     "id": "dc",
@@ -207,7 +231,7 @@
     "description": "Karl Popper propone el falsacionismo, planteando la importancia de la falsación en la validación de teorías científicas.",
     "date": "1950",
     "modalContent": "Karl Popper, filósofo de la ciencia, introdujo el falsacionismo como criterio de demarcación entre ciencia y no ciencia. Según Popper, una teoría científica debe ser falsable, es decir, debe plantear predicciones específicas que puedan ser refutadas por la evidencia empírica. Esta propuesta influyó en la metodología científica al destacar la importancia de la falsación como parte integral de la validación científica.",
-    "imageUrl": "img/26.png"
+    "imageUrl": "img/29.png"
   },
   {
     "id": "dc",
@@ -215,7 +239,7 @@
     "description": "En la década de 1960, se experimenta un auge en la investigación científica en México, marcando un periodo de crecimiento y desarrollo.",
     "date": "1960",
     "modalContent": "En la década de 1960, México experimentó un notable auge en la investigación científica. Este periodo se caracterizó por un crecimiento significativo en instituciones de investigación, inversiones en ciencia y tecnología, y un aumento en la producción científica. Este impulso contribuyó al desarrollo del panorama científico en México, consolidándolo como un actor importante en la investigación a nivel regional e internacional.",
-    "imageUrl": "img/27.webp"
+    "imageUrl": "img/30.webp"
   },
   {
     "id": "dc",
@@ -223,7 +247,15 @@
     "description": "Thomas Kuhn publica La estructura de las revoluciones científicas, introduciendo la noción de cambios paradigmáticos en la ciencia.",
     "date": "1962",
     "modalContent": "En 1962, Thomas Kuhn publicó 'La estructura de las revoluciones científicas', obra que introdujo la noción de cambios paradigmáticos en la ciencia. Kuhn argumentó que la evolución científica implica revoluciones que cambian la forma en que se percibe y practica la ciencia. Su influencia se extendió a diversas disciplinas y generó debates sobre la naturaleza y el progreso de la investigación científica.",
-    "imageUrl": "img/28.jpg"
+    "imageUrl": "img/31.jpg"
+  },
+  {
+    "id": "dc",
+    "title": " Vera Rubin y la materia oscura",
+    "description": "Vera Rubin fue la única mujer que se graduó en astronomía en Vassar College en 1948. Encontró la primera evidencia de la existencia de materia oscura.",
+    "date": "1970",
+    "modalContent": "A finales de la década de 1970, la astrónoma Vera Rubin (1928-2016) se quedó desconcertada al analizar los resultados de sus observaciones de la Galaxia de Andrómeda en los laboratorios del Instituto Carnegie, en Washington. La gran espiral de la galaxia tenía una rotación extraña: las estrellas de los bordes se movían tan rápido como las del centro, lo que violaba las leyes del movimiento de Newton (que también regulan cómo los planetas giran alrededor del Sol). Ese resultado también contradecía la mecánica clásica, a no ser que hubiera algún tipo de materia que no pudiera ser vista. Rubin no lo sabía aún, pero había encontrado la primera evidencia de existencia de la materia oscura.",
+    "imageUrl": "img/32.jpg"
   },
   {
     "id": "dc",
@@ -231,7 +263,7 @@
     "description": "En 1976, el Dr. Raúl Rojas Soriano publica la Guía para investigaciones sociales, ofreciendo orientación en el ámbito de la investigación social.",
     "date": "1976",
     "modalContent": "En 1976, el Dr. Raúl Rojas Soriano, destacado investigador social, publicó 'Guía para investigaciones sociales', una obra que proporciona orientación valiosa en el ámbito de la investigación social. Esta guía se convirtió en una referencia importante para estudiantes, académicos y profesionales dedicados a la investigación en ciencias sociales, ofreciendo metodologías y enfoques para abordar temas relevantes en la sociedad.",
-    "imageUrl": "img/29.jpg"
+    "imageUrl": "img/33.jpg"
   },
   {
     "id": "dc",
@@ -239,7 +271,7 @@
     "description": "En 1985, la Metodología FODA comienza a aplicarse en Estados Unidos, influyendo en la planificación estratégica.",
     "date": "1985",
     "modalContent": "En 1985, la Metodología FODA (Fortalezas, Oportunidades, Debilidades y Amenazas) comenzó a aplicarse en Estados Unidos, marcando una influencia significativa en la planificación estratégica de empresas e instituciones. Esta metodología proporciona un marco analítico para evaluar factores internos y externos que afectan una organización, contribuyendo a la toma de decisiones informada y al desarrollo de estrategias efectivas.",
-    "imageUrl": "img/30.png"
+    "imageUrl": "img/34.png"
   },
   {
     "id": "dc",
@@ -247,15 +279,55 @@
     "description": "En 1996, se destaca la importancia de la interdisciplinariedad e integración del conocimiento en la investigación científica.",
     "date": "1996",
     "modalContent": "En 1996, se enfatizó la importancia de la interdisciplinariedad e integración del conocimiento en la investigación científica. Este enfoque reconoce que muchos problemas complejos requieren la colaboración de diversas disciplinas para su comprensión y solución. La interdisciplinariedad fomenta la sinergia entre áreas de estudio, abordando cuestiones científicas desde perspectivas múltiples y promoviendo avances significativos en la comprensión del mundo.",
-    "imageUrl": "img/31.webp"
+    "imageUrl": "img/35.webp"
   },
   {
-    "id": "dc",
+    "id": "actualidad",
     "title": "Consolidación de la investigación científica en México.",
     "description": "Hacia el año 2000, se observa una consolidación de la investigación científica en México, con un crecimiento y reconocimiento en diversas áreas.",
     "date": "2000",
     "modalContent": "Hacia el año 2000, México experimentó una consolidación notable en la investigación científica. Este periodo se caracterizó por un crecimiento continuo y un reconocimiento internacional en diversas áreas, desde ciencias naturales hasta humanidades. La inversión en infraestructuras científicas, programas académicos y colaboraciones internacionales contribuyó a posicionar a México como un actor relevante en la escena científica global.",
-    "imageUrl": "img/32.jpg"
+    "imageUrl": "img/36.jpg"
+  },
+  {
+    "id": "actualidad",
+    "title": "Descubrimiento de Exoplanetas",
+    "description": "En las últimas dos décadas, los astrónomos han identificado miles de exoplanetas utilizando tecnologías avanzadas, como el telescopio espacial Kepler. Este descubrimiento ha transformado nuestra comprensión del universo y ha planteado preguntas fascinantes sobre la posibilidad de vida extraterrestre.",
+    "date": "2009",
+    "modalContent": "Desde el lanzamiento del telescopio espacial Kepler en 2009, los científicos han identificado miles de exoplanetas fuera de nuestro sistema solar. Este descubrimiento ha ampliado significativamente nuestro conocimiento sobre la diversidad de sistemas planetarios y ha llevado a la búsqueda de signos de vida en otros rincones del cosmos.",
+    "imageUrl": "img/37.jpg"
+  },
+  {
+    "id": "actualidad",
+    "title": "Colisionador de Hadrones del CERN",
+    "description": "El Gran Colisionador de Hadrones (LHC) en el CERN ha sido fundamental para descubrimientos en la física de partículas. En 2012, se confirmó el hallazgo del bosón de Higgs, una partícula clave para entender la masa en el universo.",
+    "date": "2008",
+    "modalContent": "El Gran Colisionador de Hadrones (LHC) en el CERN, inaugurado en 2008, ha sido esencial para la investigación en física de partículas. En 2012, se anunció el descubrimiento del bosón de Higgs, una partícula fundamental para comprender el origen de la masa en el universo. El LHC continúa siendo una herramienta clave para explorar fenómenos cósmicos.",
+    "imageUrl": "img/38.jpg"
+  },
+  {
+    "id": "actualidad",
+    "title": "CRISPR-Cas9 y Edición Genética",
+    "description": "El desarrollo de la tecnología CRISPR-Cas9 ha revolucionado la edición genética, permitiendo a los científicos modificar genes con una precisión sin precedentes. Esta herramienta tiene aplicaciones en la investigación biomédica, la agricultura y la terapia génica.",
+    "date": "2012",
+    "modalContent": "La tecnología CRISPR-Cas9, desarrollada en la última década, ha cambiado la cara de la edición genética. Su capacidad para modificar genes con precisión ha llevado a avances significativos en la investigación biomédica, la ingeniería de cultivos y la terapia génica. Este hito tecnológico ha abierto nuevas posibilidades y desafíos éticos en la manipulación genética.",
+    "imageUrl": "img/39.png"
+  },
+  {
+    "id": "actualidad",
+    "title": "Avance en la lucha contra enfermedades neurodegenerativas",
+    "description": "Investigadores desarrollan una terapia experimental que muestra resultados prometedores en la ralentización de enfermedades neurodegenerativas como el Alzheimer.",
+    "date": "2021",
+    "modalContent": "Detalles sobre el enfoque terapéutico, resultados de estudios clínicos y posibles implicaciones para el tratamiento de enfermedades neurodegenerativas.",
+    "imageUrl": "img/40.webp"
+  }, 
+  {
+    "id": "actualidad",
+    "title": "La Inteligencia Artificial sigue ganando terreno",
+    "description": "La herramienta de IA ChatGPT tuvo un profundo efecto en la ciencia este año en 2023, pero el fenómeno se intensificará para 2024, pues ya se esta frente a la próxima generación del modelo de inteligencia artificial (IA).",
+    "date": "2023-Actualidad",
+    "modalContent": "Se espera la nueva versión de GPT-5, ésta presentará capacidades más avanzadas que las de su predecesor, GPT-4. También se consolidará Gemini, el competidor de GPT-4 de Google. Su modelo lingüístico promete procesar varios tipos de texto, código informático, imágenes, audio y vídeo. <br>También se lanzará una nueva versión de AlphaFold, la herramienta de inteligencia artificial de Google DeepMind con la cual los investigadores predicen formas tridimensionales de las proteínas.",
+    "imageUrl": "img/41.jpg"
   }
 ]
 
